@@ -1,6 +1,5 @@
-pandas 
-string 
-nltk
-scikit-learn
-numpy
-imblearn
+  --Python 
+  --Pandas & NumPy
+  --NLTK
+  --Scikit-learn
+  --Imbalanced-learn
