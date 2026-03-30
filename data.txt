@@ -1,0 +1,4 @@
+This project uses the Sentiment Analysis for Mental Health
+dataset from Kaggle:
+
+https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health
